@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+ul{
+    text-align: right;
+    float: right;
+     color: floralwhite;
+    font-family: cursive;
+    font-size: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+.links:hover{background-color: aliceblue;}
+html{scroll-behavior: smooth;}
+.links{
+    vertical-align: middle;
+    display: table-cell;
+    font-family: cursive;
+        /*position:absolute;
+        list-style: none;
+    top: 10px;
+    right:100px;
+    z-index: 100;*/
+    cursor:pointer;
+    font-size: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
